@@ -1,6 +1,6 @@
-package G_Execoes.saque_bancario.entities;
+package G_TratamentoDeExecoes.saque_bancario.entities;
 
-import G_Execoes.saque_bancario.excepetions.WithdrawException;
+import G_TratamentoDeExecoes.saque_bancario.excepetions.WithdrawException;
 
 public class Account {
     private Integer number;

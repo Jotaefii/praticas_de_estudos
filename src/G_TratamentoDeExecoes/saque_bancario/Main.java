@@ -1,7 +1,7 @@
-package G_Execoes.saque_bancario;
+package G_TratamentoDeExecoes.saque_bancario;
 
-import G_Execoes.saque_bancario.entities.Account;
-import G_Execoes.saque_bancario.excepetions.WithdrawException;
+import G_TratamentoDeExecoes.saque_bancario.entities.Account;
+import G_TratamentoDeExecoes.saque_bancario.excepetions.WithdrawException;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
