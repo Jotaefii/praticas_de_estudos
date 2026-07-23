@@ -14,7 +14,7 @@ O objetivo é registrar minha evolução e consolidar os conceitos da linguagem 
 - [x] Data e Hora
 - [x] Enumeracao e Composição
 - [x] Heranca e Polimorfismo
-- [ ] Tratamento de execoes
+- [x] Tratamento de execoes
 
 ---
 
@@ -29,6 +29,7 @@ Java
     ├── D_DataEHora
     ├── E_EnumeracaoEComposicao
     ├── F_HerancaEPolimorfismo
+    ├── G_Execoes
 ```
 
 ---
