@@ -15,6 +15,7 @@ O objetivo é registrar minha evolução e consolidar os conceitos da linguagem 
 - [x] Enumeracao e Composição
 - [x] Heranca e Polimorfismo
 - [x] Tratamento de execoes
+- [x] Trabalhando com arquivos
 
 ---
 
@@ -29,7 +30,8 @@ Java
     ├── D_DataEHora
     ├── E_EnumeracaoEComposicao
     ├── F_HerancaEPolimorfismo
-    ├── G_Execoes
+    ├── G_TratamentoDeExecoes
+    ├── H_TrabalhandoComArquivos
 ```
 
 ---
