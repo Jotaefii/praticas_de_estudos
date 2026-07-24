@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        File pasta = new File(System.getProperty("user.home") + "\\Desktop\\out");
+        File pasta = new File("out");
         File arquivo = new File(pasta, "summary.csv");
 
         try {
